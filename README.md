@@ -1,7 +1,7 @@
 ### Hi there, I'm Om Vyas - aka [ovyas24][website] 👋
 
 
-## I'm a Student, Developer, and Lerner!!
+## I'm a Student, Developer, and Learner!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects

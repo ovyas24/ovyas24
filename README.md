@@ -1,6 +1,5 @@
 ### Hi there, I'm Om Vyas - aka [ovyas24][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://bcaforums.me)
 
 ## I'm a Student, Developer, and Lerner!!
 
@@ -33,5 +32,5 @@
 <br />
 
 [website]: https://bcaforums.me
-[instagram]: https://www.instagram.com/the.om.vyas/
-[linkedin]: https://www.linkedin.com/in/om-prakash-vyas-68b9a2160/
+[instagram]: https://www.instagram.com/the.om.vyas
+[linkedin]: https://www.linkedin.com/in/om-prakash-vyas-68b9a2160

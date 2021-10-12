@@ -1,10 +1,9 @@
-### Hi there, I'm Om Vyas - aka [ovyas24][website] 👋
+### Hi there, I'm Om Vyas - aka ovyas24👋
 
 
 ## I'm a Student, Developer, and Learner!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning everything
 - ⚡ Fun fact: I love to draw and play with electronics
 
 ### Connect with me:
@@ -31,6 +30,5 @@
 <br />
 <br />
 
-[website]: https://ovyas24.github.io
 [instagram]: https://www.instagram.com/the.om.vyas
 [linkedin]: https://www.linkedin.com/in/om-prakash-vyas-68b9a2160

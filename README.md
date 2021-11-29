@@ -1,7 +1,7 @@
 ### Hi there, I'm Om Vyas - aka ovyas24👋
 
 
-## I'm a Student, Developer, and Learner!!
+## I'm a Working Professional, Developer, and Learner!!
 
 - 🌱 I’m currently learning everything
 - ⚡ Fun fact: I love to draw and play with electronics
